@@ -59,3 +59,10 @@ build*
 /CMakeSettings.json
 .DS_Store
 *.swp
+
+bin
+bin-int
+**.sln
+**.vcxproj
+**.vcxproj.user
+**.vcxproj.filters
